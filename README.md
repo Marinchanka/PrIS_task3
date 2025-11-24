@@ -162,8 +162,7 @@ $$
 
 ### Критерий для условного экстремума
 
-Пусть $L = \nabla^2_{xx} \mathcal{L}$, 
-$J = \begin{pmatrix} \nabla g_1^T \\ \nabla g_2^T \end{pmatrix} = \begin{pmatrix} 3 & 2 \\ 1 & -1 \end{pmatrix}.$
+Пусть $L = \nabla^2_{xx} \mathcal{L}, J = \begin{pmatrix} \nabla g_1^T \\ \nabla g_2^T \end{pmatrix} = \begin{pmatrix} 3 & 2 \\ 1 & -1 \end{pmatrix}.$
 
 Рассмотрим **расширенную матрицу Гессе** для случая $m=2$ ограничений, $n=2$ переменных:
 
